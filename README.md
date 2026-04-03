@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Kawã Sampaio  
 
-💻 Estudante de Engenharia de Computação (8º semestre)  
+💻 Estudante de Engenharia de Computação (9º semestre)  
 🚀 Apaixonado por **Backend, Automação de Processos e Análise de Dados**  
 📊 Experiência com Python,MongoDB, MySQL, HTML5, CSS3  
 
